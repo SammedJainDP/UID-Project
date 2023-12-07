@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 40px;
+    line-height: 1.5em;
+    font-family: calibri;
+
+}
+h2{
+   font-size: 50px; 
+}
+h3{
+    font-size: 30px;
+}
+span{
+    font-size: 20px;
+}
+.homebtn{
+    color: white;
+    background-color: black;
+    border: none;
+    font-size: 30px;
+    
+}
+.download{
+    float: right;
+    text-decoration: none;
+    color: white;
+}
